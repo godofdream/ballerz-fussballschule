@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+infra/terraform.tfvars
+infra/.terraform/
+infra/*.tfstate*
+.DS_Store
+wrangler.toml.bak
